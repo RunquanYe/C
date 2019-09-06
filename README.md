@@ -1,5 +1,8 @@
 # C
-My C projects
+## My C Projects
+1. Substitution -Based Cipher
+2. Grocery Store Management System
+---
 
 ## Project 1: Substitution -Based Cipher
 
@@ -15,7 +18,7 @@ Project 1 is an encryption algorithm that is based on substitution and permutati
         - d refers to decrypt
     + Calling the makefile, by using 'make' in the terminal.  You can just modify the input keyword and input file path to test my projects.
 
-
+---
 ## Project 2: Grocery Store Management System
 
 Project 2 is a management system for the grocery store. 
