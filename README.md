@@ -23,7 +23,12 @@ Project 1 is an encryption algorithm that is based on substitution and permutati
 
 Project 2 is a management system for the grocery store. 
 
-<img align="center" width="370" height="500" src="img/c_p2_01.PNG"/>
+<html>
+    <div style="display:flex; justify-content: center;">
+        <img width="370" height="500" src="img/c_p2_01.PNG"/>
+    </div>
+</html>
+
 
 1. My designed this project into two parts:
     + The main.o for running the project
