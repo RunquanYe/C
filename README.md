@@ -13,7 +13,7 @@ Project 1 is an encryption algorithm that is based on substitution and permutati
     + The functions.o for the actual relative code for the cipher functionalities.
 
 2. How to run my project:
-    + ./a.out (e/d) INPUT_KEY_WORD INPUT_FILE OUTPUT_FILE
+    + ./a.out    (e/d)     INPUT_KEY_WORD     INPUT_FILE OUTPUT_FILE
         - e refers to Encrypt
         - d refers to decrypt
     + Calling the makefile, by using 'make' in the terminal.  You can just modify the input keyword and input file path to test my projects.
