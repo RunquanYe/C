@@ -31,6 +31,6 @@ Project 2 is a product management system for the grocery store. It can store, se
 
 
 1. My designed this project into two parts:
-    + The main.o for running the project
+    + The main.o is the compiled code for running the project
     + The functions.o is the compiled code for the product management system functionalities.
-
+    + My project also included makefile, so you just need to run "make" in terminal, and run "./store" to start my project.
