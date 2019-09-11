@@ -21,7 +21,7 @@ Project 1 is an encryption algorithm that is based on substitution and permutati
 ---
 ## Project 2: Grocery Store Management System
 
-Project 2 is a management system for the grocery store. 
+Project 2 is a product management system for the grocery store. It can store, search, and update the product data information and check out products.
 
 <html>
     <div style="display:flex; justify-content: center;">
