@@ -32,5 +32,5 @@ Project 2 is a product management system for the grocery store. It can store, se
 
 1. My designed this project into two parts:
     + The main.o for running the project
-    + The functions.o for the actual relative code for the management system functionalities.
+    + The functions.o is the compiled code for the product management system functionalities.
 
