@@ -1,7 +1,7 @@
 # C
 ## My C Projects
-1. Substitution -Based Cipher
-2. Grocery Store Management System
+1. [Cipher](#cipher)
+2. [Grocery Store Management System](#Grocery Store Management System)
 ---
 
 ## Project 1: Substitution -Based Cipher
