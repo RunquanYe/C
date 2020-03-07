@@ -21,11 +21,16 @@ Project 1 is an encryption algorithm that is based on substitution and permutati
 ---
 ## Grocery Store Management System
 
-Project 2 is a management system for the grocery store. 
+Project 2 is a product management system for the grocery store. It can store, search, and update the product data information and check out products.
 
-<img align="center" width="370" height="500" src="/img/c_p2_01.jpg"/>
+<html>
+    <div style="display:flex; justify-content: center;">
+        <img width="370" height="500" src="img/c_p2_01.PNG"/>
+    </div>
+</html>
 
-1. My designed this project into two parts:
-    + The main.o for running the project
-    + The functions.o for the actual relative code for the management system functionalities.
 
++ My designed this project into two parts:
+    - The main.o is the compiled code for running the project
+    - The functions.o is the compiled code for the product management system functionalities.
+    - My project also included makefile, so you just need to run "make" in terminal, and run "./store" to start my project.
