@@ -23,7 +23,7 @@ Project 2 is a product management system for the grocery store. It can store, se
 
 <html>
     <div style="display:flex; justify-content: center;">
-        <img width="370" height="500" src="img/c_p2_01.PNG"/>
+        <img width="700" height="300" src="img/c_p2_01.PNG"/>
     </div>
 </html>
 
