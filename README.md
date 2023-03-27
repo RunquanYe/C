@@ -18,7 +18,7 @@ Project 1 is an encryption algorithm that is based on substitution and permutati
     + Calling the makefile, by using 'make' in the terminal.  You can just modify the input keyword and input file path to test my projects.
 ---
 
-## [Grocery Store Management System]()
+## [Grocery Store Management System](https://github.com/RunquanYe/C/tree/master/Grocery_Store_Management)
 Project 2 is a product management system for the grocery store. It can store, search, and update the product data information and check out products.
 
 <html>
