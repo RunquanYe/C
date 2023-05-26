@@ -21,12 +21,7 @@ Project 1 is an encryption algorithm that is based on substitution and permutati
 ## [Grocery Store Management System](https://github.com/RunquanYe/C/tree/master/Grocery_Store_Management)
 Project 2 is a product management system for the grocery store. It can store, search, and update the product data information and check out products.
 
-<html>
-    <div style="display:flex; justify-content: center;">
-        <img width="500" height="500" src="img/c_p2_01.PNG"/>
-    </div>
-</html>
-
+<p align="center"><img width="500" height="500" src="img/c_p2_01.PNG"/></p>
 
 + My designed this project into two parts:
     - The main.o is the compiled code for running the project
