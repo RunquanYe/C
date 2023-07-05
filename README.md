@@ -1,4 +1,8 @@
 # C
+---
+Hello, 😄, to see more of my projects in other languages, please take a look at 👉 my [Demo Projects Board](https://github.com/RunquanYe/DemoProjects).
+
+---
 ## My C Projects
 1. [Cipher](#cipher)
 2. [Grocery Store Management System](#grocery-store-management-system)
