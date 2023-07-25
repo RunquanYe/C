@@ -1,23 +1,23 @@
-all: functions.h functions.o main.o
+all: functions main
 	touch data.txt
 	gcc -o cipher functions.o main.o
 
-main.o: functions.h main.c
+main: functions.h main.c
 	gcc -c main.c
 
-functions.o: functions.h functions.c
-	gcc -c functions.c
+functions: functions.h functions.c
+	gcc -c functions.c -o functions.o 
 
 enc: 
-	./cipher e GOODMORNING data edata
+	./cipher e GOODMORNING data.txt edata.txt
 
 dec: 
-	./cipher d GOODMORNING cipher ddata
+	./cipher d GOODMORNING cipher ddata.txt
 
 test:
-	./cipher e GOODMORNING data edata
-	./cipher d GOODMORNING edata ddata
-	diff -s data ddata
+	./cipher e GOODMORNING data.txt edata.txt
+	./cipher d GOODMORNING edata.txt ddata.txt
+	diff -s data.txt ddata.txt
 
 clean:
-	rm -f *.o p edata ddata
+	rm -f *.o +wdata.txt p edata.txt ddata.txt cipher
