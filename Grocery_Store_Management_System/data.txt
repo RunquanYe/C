@@ -1,0 +1,2 @@
+ice 8800.000000 cube 2.000000 dollars
+banana 7.000000 pound 3.000000 pound
